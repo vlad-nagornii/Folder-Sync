@@ -1,0 +1,6 @@
+{
+    "sync_interval": 10,
+    "source_path": "/Users/vladnagornii/Desktop/Veeam/test/source",
+    "replica_path": "/Users/vladnagornii/Desktop/Veeam/test//replica",
+    "log_path": "/Users/vladnagornii/Desktop/Veeam/test//log.txt"
+}
